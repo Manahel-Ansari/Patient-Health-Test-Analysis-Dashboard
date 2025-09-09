@@ -13,5 +13,5 @@ Gender & Age Analysis displays the Number of male and female patients, as well a
 - Trends Over Time shows Monthly and daily variations in blood pressure, heart rate, and hemoglobin.
 
 ### Tools Used
--Power BI Desktop for dashboard creation and visualization.
--Excel/CSV datasets for patient health records.
+- Power BI Desktop for dashboard creation and visualization.
+- Excel/CSV datasets for patient health records.
