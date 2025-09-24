@@ -1,4 +1,4 @@
-## Patient Health Test Analysis Dashboard
+## Dynamic Patient Health Monitoring Dashboard
 
 ### Description
 This project is a dashboard built in Power BI to analyze patient health test results. It helps doctors, researchers, and health analysts quickly view patient details and understand medical test outcomes. The dashboard shows information like age distribution, smoking habits, BMI categories, blood pressure, cholesterol levels, and heart rate.
